@@ -44,7 +44,7 @@ Various projects to solidify my understanding of software engineering and develo
 
 ## GitHub Stats
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuchoubey&show_icons=true&theme=radical)
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-ghub&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchoubey&layout=compact&theme=radical)
 
