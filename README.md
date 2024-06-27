@@ -1,5 +1,5 @@
 ## Hi there 👋
-##My name is Priyansu Choubey
+## My name is Priyansu Choubey
 
 <!--
 **Priyanshu-ghub/Priyanshu-ghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
