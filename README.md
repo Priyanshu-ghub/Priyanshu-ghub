@@ -35,7 +35,7 @@ A clone of the Netflix web application, built to practice and enhance my fronten
 Various projects to solidify my understanding of software engineering and development concepts.
 
 - **Tech Stack**: HTML, CSS, JAVASCRIPT 
-- **Repository**: [https://github.com/Priyanshu-ghub/javascript](Go to Repo)
+- **Repository**: [Javascript Learning](https://github.com/Priyanshu-ghub/javascript)  
 
 ## Connect with Me
 
