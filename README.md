@@ -48,6 +48,8 @@ Various projects to solidify my understanding of software engineering and develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchoubey&layout=compact&theme=radical)
 
+## Badges 
+![Build Status](https://github.com/Priyanshu-ghub/repo/workflows/CI/badge.svg)
 
 <!--
 **Priyanshu-ghub/Priyanshu-ghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
