@@ -1,6 +1,6 @@
 # Hi there, I'm Priyanshu Choubey 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshuchoubey)
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu-ghub)
 
 ## About Me
 
@@ -34,8 +34,8 @@ A clone of the Netflix web application, built to practice and enhance my fronten
 
 Various projects to solidify my understanding of software engineering and development concepts.
 
-- **Tech Stack**: Various
-- **Repository**: [Link to Repository](#)
+- **Tech Stack**: HTMLCSS JAVASCRIPT 
+- **Repository**: (https://github.com/Priyanshu-ghub/javascript)(#)
 
 ## Connect with Me
 
